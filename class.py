@@ -1,3 +1,3 @@
-a= 5
-h= 6
-print(a+h)
+b= 7
+p= 6
+print(b+p)
