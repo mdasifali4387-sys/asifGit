@@ -1,2 +1,2 @@
 # asifGit
-this is my first repository for understad 
+this is my first repository for understading 
